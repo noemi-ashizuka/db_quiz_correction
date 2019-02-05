@@ -1,10 +1,10 @@
-## ActiveRecord Boilerplate
+## Module #3 - Database Quiz Templaete
 
-This is a starting point for the Activerecord Basics lecture using sqlite. During the lecture, you need to:
+This is a starting point for the livecode reviewing the quiz answers:
 
-- Clone The project
-- Run `bundle install`
-- Explain `rake -T`
-- Explain `config/database.yml`
-- Run `rake db:create` / `rake db:drop`
-- Create and run 2 migrations
+- Fork and clone the project
+- opt: Create a branch for whatever batch number 
+- Start from the text_answers.txt
+- Use db.lewagon.org for building schema
+- Use migrations, models, and controller for writing actual code
+- Use active_record_methods.rb for question #13

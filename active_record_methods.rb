@@ -1,7 +1,6 @@
 # 1. Add your favorite author to the DB
 
 
-
 # 2. Get all authors
 
 
@@ -22,5 +21,3 @@
 
 
 # 8. Now save this book in the DB!
-
-

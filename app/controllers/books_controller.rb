@@ -1,11 +1,11 @@
 def BooksController
 
-  def books_writte_before_1984
-
+  def books_written_before_1985
+    query = ""
   end
 
   def three_recent_jules
-
+    query = ""
   end
 
 end
